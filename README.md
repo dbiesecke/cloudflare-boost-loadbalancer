@@ -15,7 +15,7 @@ npm install -g @cloudflare/wrangler
 - Generate from [rocket-booster-template](https://github.com/booster-labs/rocket-booster-template)
 
 ```sh
-wrangler generate booster https://github.com/booster-labs/rocket-booster-template
+wrangler generate booster https://github.com/dbiesecke/cloudflare-boost-loadbalancer
 ```
 
 - Install dependencies
