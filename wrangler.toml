@@ -1,0 +1,13 @@
+name = "booster-app-1"
+type = 'webpack'
+account_id = '7d42f6d7d6839c9e3c607b7188427e67'
+route = ''
+zone_id = ''
+usage_model = ''
+workers_dev = true
+
+[build]
+command = "npm install && npm run build"
+
+[build.upload]
+format = "service-worker"
